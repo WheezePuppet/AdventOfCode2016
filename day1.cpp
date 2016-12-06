@@ -12,7 +12,7 @@ int abs(int x) {
 }
 
 int main() {
-    cout << "It's TJ and Daddy!" << endl;
+    cout << "It's TJ and Daddy on Day 1!" << endl;
 
     char current_facing = 'N';   // 'N'-north, 'W'-west, 'S'-east, 'E'-east
     int step_distance;
